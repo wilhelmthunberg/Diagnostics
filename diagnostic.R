@@ -1,3 +1,4 @@
+#author: Wilhelm Thunberg
 library(Diagnostics)
 learn <- function(data){
   #-------------------------------------------
